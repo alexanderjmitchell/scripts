@@ -8,6 +8,7 @@ name = "pypi"
 [packages]
 
 pandas = "==0.22.0"
+docopt = "*"
 
 
 [dev-packages]
